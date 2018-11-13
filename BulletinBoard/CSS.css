@@ -1,0 +1,99 @@
+﻿body {
+    color: #000000;
+    font-family: Helvetica, Arial;
+    width: 1000px;
+    background-image: url("images/boltonlogo.jpg");
+    background-size: 100%;
+}
+
+header {
+    color: #ffffff;
+}
+
+ul {
+    list-style-type: none;
+    margin: -6px;
+    padding: 0;
+}
+
+li {
+    float: left;
+    font-size: 30px;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+    padding: 7px;
+}
+
+li a:hover {
+    color: #737373;
+}
+
+Textbox {
+    padding-top: 100px;
+}
+
+.title {
+    text-align: center;
+    color: #ffffff;
+}
+
+.heading {
+    text-align: center;
+    padding: 0;
+}
+
+.centerbox {
+    margin-top: 100px;
+    margin-bottom: 200px;
+    margin-left: 50%;
+    background-image: url("images/boxbackground.jpg");
+    background-size: 100%;
+    opacity: 0.95;
+    width: 500px;
+    height: 500px;
+    border: 1px;
+    border-color: #000000;
+}
+
+.boxcont {
+    color: #000000;
+    padding-top: 30px;
+    display: block;
+    text-align: center;
+    opacity: 1;
+}
+
+.white {
+    color: #ffffff;
+}
+
+tr, td {
+    text-align: center;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.logo {
+    float: left;
+}
+
+.subtitle {
+    padding-top: 55px;
+    margin-left: 100px;
+}
+
+.hoverbutton {
+    cursor: pointer;
+}
+
+.small {
+    font-size: smaller;
+}
+
+a {
+    color: #000000;
+    text-decoration-line: underline;
+}
